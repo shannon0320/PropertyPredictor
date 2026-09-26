@@ -58,7 +58,7 @@ python -m src.preprocess_data
 # Location enrichment from an already populated local geocoding cache
 python -m src.enrich_location_data
 ```
-
+Updated README
 Geocoding and model-training workflows are intentionally separate from the application. See the reports under `reports/` for audit, preprocessing, location validation, and frozen-model methodology.
 
 ## Scope and limitations
