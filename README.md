@@ -1,6 +1,6 @@
 # Singapore Residential Property Price Predictor
 
-A fully local Streamlit application for estimating HDB resale, Executive Condominium (EC), and landed-property transaction prices. Production models are already trained and frozen; normal app usage does not retrain models, geocode properties, download MRT data, or call OneMap.
+A local Streamlit application meant for estimating HDB's resale, Executive Condominium (EC), and landed-property transaction prices. Production models are already trained and frozen; normal app usage does not retrain models, geocode properties, download MRT data, or call upon OneMap.
 
 ## Run locally
 
